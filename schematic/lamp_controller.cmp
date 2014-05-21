@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = R 11 apr   2014 10:55:23 EEST
+
+BeginCmp
+TimeStamp = /53468665;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5346867E;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53468697;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /534686B0;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /534680E3;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_2x5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53469200;
+Reference = P2;
+ValeurCmp = CONN_3X2;
+IdModule  = conn_6_micromatch;
+EndCmp
+
+BeginCmp
+TimeStamp = /53479FEB;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = conn_4_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534680C5;
+Reference = P5;
+ValeurCmp = CONN_8;
+IdModule  = conn_8_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5346865F;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53468678;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53468691;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /534686AA;
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53468658;
+Reference = R13;
+ValeurCmp = R;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53468671;
+Reference = R14;
+ValeurCmp = R;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5346868A;
+Reference = R15;
+ValeurCmp = R;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /534686A3;
+Reference = R16;
+ValeurCmp = R;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5346845B;
+Reference = U5;
+ValeurCmp = PR39MF21;
+IdModule  = DIP8-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5346846A;
+Reference = U6;
+ValeurCmp = PR39MF21;
+IdModule  = DIP8-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /53468479;
+Reference = U7;
+ValeurCmp = PR39MF21;
+IdModule  = DIP8-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /53468488;
+Reference = U8;
+ValeurCmp = PR39MF21;
+IdModule  = DIP8-7;
+EndCmp
+
+EndListe
